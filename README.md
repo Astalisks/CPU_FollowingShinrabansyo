@@ -1,1 +1,1 @@
-# CPU_FollowingShintabansyo
+# CPU_FollowingShinrabansyo
